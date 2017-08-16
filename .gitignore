@@ -122,3 +122,8 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+.idea/description.html
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/project-template.xml
