@@ -100,7 +100,7 @@ public class Population {
                 }
             } else {
                  /*
-                  No crossover, so copy verbatium.
+                  No crossover, so copy verbatim.
                   Determine if mutation should occur.
                   */
                 if (rand.nextFloat() <= mutation) {
